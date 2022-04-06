@@ -1,0 +1,190 @@
+{
+  "_id": "5fd3785e316d7701f05b53ed",
+  "uniqueId": "google:112693726943810528846",
+  "userId": "3f71ab7f-0825-3e26-8578-79f41606d176",
+
+  "isAnonymous": false,
+  "names": [
+    "John Doe"
+  ],
+  "emails": [
+    "testuser@jlr.com"
+  ],
+  "source": "google",
+
+  "sourceSpecificId": "3f71ab7f-0825-3e26-8578-79f41606d176",
+
+  "auth": {
+    "authProvider": "google",
+
+    "name": "John Doe",
+
+    "username": "testuser@jlr.com",
+
+    "id": "3f71ab7f-0825-3e26-8578-79f41606d176",
+
+    "email": "testuser@jlr.com",
+
+    "image": "lh3.googleusercontent.com",
+
+    "primary": false,
+    "accessToken": "ya29.a0AfH6SMAU0R77XUzBYrsMfRvCBnri6uxY6Gdj3f3G2qdQ4tndDlNYmYt0vvOj4hD8fnmQ5M_LziYEU2tS2kSBf__IjTOiPjftxMimRfepMx2XH-oGySOfG6GFRKtLIg9NX0KxpdhjXKF7dQO52u-46R6lJBOppnoEctTIHMceG8o"
+  },
+  "roles": [],
+  "devices": {
+    "deviceId": {},
+    "browser": {
+      "isCompanion": false,
+      "deviceModel": null,
+      "state": "active",
+
+      "lastConnect": NumberLong(1607694430180),
+      "lastDisconnect": NumberLong(0),
+      "timezone": "",
+
+      "locale": "en_US",
+
+      "settings": {
+        "headUnitInfo": "",
+
+        "os": null,
+        "osVersion": null,
+        "jdVersion": null,
+        "jdVersionStr": null,
+        "model": null
+      },
+      "products": {
+        "JPIVI": {
+          "productId": "JPIVI",
+
+          "productVersion": "2.0",
+
+          "lastLogTime": NumberLong(0),
+          "localeInfo": {
+            "countryCode": "US",
+
+            "location": {
+              "pt": {
+                "lat": 37.4509242,
+                "lng": -122.1262902
+              },
+              "timestamp": NumberLong(1607946705896)
+            },
+            "countryCodeLastUpdate": NumberLong(1607946705954),
+            "continentCode": null,
+            "currencyCode": null,
+            "currencySymbol": null,
+            "speed": 0,
+            "bearing": 0.0
+          },
+          "upgradeLearnBillboards": null,
+          "addresses": {
+            "test": {
+              "number": "2015",
+
+              "street": "Edgewood Dr",
+
+              "city": "Palo Alto",
+
+              "state": "CA",
+
+              "country": "USA",
+
+              "zip": "94303",
+
+              "label": "2015 Edgewood Dr, Palo Alto, CA 94303, United States",
+
+              "locationHash": "9q9jhcwrse4d",
+
+              "longLabel": "2015 Edgewood Dr, Palo Alto, CA 94303, United States",
+
+              "name": "test",
+
+              "placeId": "test:0d154e88-5877-4f0b-aee0-4e3e3dcb3963",
+
+              "location": {
+                "lat": 37.45095,
+                "lng": -122.12623,
+                "position": "37.45095,-122.12623",
+
+                "system": "WGS84"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "providerAuth": {
+    "deezer": {
+      "id": "1059057624",
+
+      "name": "",
+
+      "username": "",
+
+      "accessToken": "nyOj77zBdSQZvy3kzeqGcub0y24HuokjVitYZuY0EaKRdFLozq",
+
+      "channelLineupId": 0.0,
+      "timestamp": NumberLong(1633607061049),
+      "country": "GB",
+
+      "authProvider": "deezer",
+
+      "flowEndpoint": "api.deezer.com
+
+      "isPremium": true,
+      "primary": false
+    },
+    "kuwo": {
+      "id": "",
+
+      "name": "老四",
+
+      "username": "",
+
+      "accessToken": "578cf07e-a7a7-426c-9bda-2f181f5db65b",
+
+      "refreshToken": "2a0816a5-5909-4b6c-958e-436727374acd",
+
+      "channelLineupId": NumberLong(0),
+      "expiresIn": 7199,
+      "timestamp": NumberLong(1648539379182),
+      "authProvider": "kuwo",
+
+      "userToken": "mduVXQf20frbgdTB5d8F7LG5FimNtrsM7xAYVgyn93EDEMv8G5CBcsEXtHg2F99Q",
+
+      "isPremium": true,
+      "subscriptionLevel": "",
+
+      "email": null,
+      "country": null,
+      "regionalEndpoint": null,
+      "tokenType": "bearer"
+    },
+    "spotify": {
+      "authProvider": "spotify",
+
+      "tokenType": "Bearer",
+
+      "accessToken": "BQBscxXt08hc29oXaew-iDUftiDLbXp1JuaNrHjkF4UAdcIdsHBps6zvY6jK0OcAQ4HxPyADuiAZvalEXMpC2lsuXmX-c4U2Poq4NJ2U-YRyIInE-s1vM8dBXsVNRl3PgKgRer_k_8hN3EpABQ2YKQjVcZa8VTLQJ2kGWA",
+
+      "refreshToken": "AQA9Fyuo2YXhF17CDuLbgv8mYNP63o088THsXEkexGWXGKq53rdRp6g9BB8WsATvCmHvZ0wYhZcPX_ru5d_j9G6dc35El3B10MIOMc-FDFOOJaOFBT_Iq6UnVLOmkAlZVMY",
+
+      "expiresIn": 3600.0,
+      "scope": null,
+      "name": "",
+
+      "username": "31womlavigni23apu4eru2q3no3u",
+
+      "isPremium": true,
+      "timestamp": NumberLong(1647425631736),
+      "email": null,
+      "country": null,
+      "regionalEndpoint": null,
+      "subscriptionLevel": null,
+      "channelLineupId": NumberLong(0),
+      "id": null
+    }
+  }
+}
